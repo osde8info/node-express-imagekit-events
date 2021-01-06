@@ -10,7 +10,7 @@
 	"name": "",
 	"version": "",
 	"dependencies": {
-		"axios": "^0.18.0",
+		"axios": "^0.21.1",
 		"bcryptjs": "^2.4.3",
 		"connect-flash": "^0.1.1",
 		"connect-mongo": "^2.0.1",
